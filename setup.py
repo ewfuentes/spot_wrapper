@@ -10,6 +10,8 @@ setup(
         "bosdyn-api==3.3.2",
         "bosdyn-mission==3.3.2",
         "bosdyn-core==3.3.2",
+        "bosdyn-choreography-client==3.3.2",
+        "bosdyn-choreography-protos==3.3.2",
         "grpcio",
         "inflection",
         "pytest"
